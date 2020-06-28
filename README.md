@@ -2,14 +2,17 @@
 
 This project is on drawing the flags of Bangladesh, Sweden, Bahrain and Morocco.
 
+Assignment, Software Development Lab [CSE 1200]
 
-CSE 1200 Software Development Lab
+Department of Computer Science and Engineering<br>
+Ahsanullah University of Science and Technology, Bangladesh
 
-Department of Computer Science and Engineering<br/>
-Ahsanullah University of Science and Technology
+## Screenshots:
 
+<img src="/screenshots/flags.png" height="400px"/>
 
-**Project Information:**
+## Project Information:
 
-**Language:** C/C++, OpenGL (with help of iGraphics wrapper)<br/>
-**IDE:** Visual Studio<br/>
+**Language:** C/C++<br>
+**Tools:** iGraphics Library<br>
+**IDE:** Visual Studio 2010
