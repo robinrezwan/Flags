@@ -9,7 +9,7 @@ Ahsanullah University of Science and Technology, Bangladesh
 
 ## Screenshots:
 
-<img src="/screenshots/flags.png" height="400px"/>
+<img src="/Screenshots/flags.png" height="400px"/>
 
 ## Project Information:
 
